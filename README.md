@@ -1,5 +1,4 @@
 
-```markdown
 # Content Researcher & Writer
 
 ## Overview
@@ -20,16 +19,10 @@ The *Content Researcher & Writer* app is a powerful tool built with **CrewAI**, 
 ## Demo Video
 Watch the demo video to see how the app works in action:
 
-[**Watch Demo Video on YouTube**](https://youtube.com/demo-video-link)
+[**Watch Demo Video on YouTube**](https://youtu.be/OKSGTd3y2pU?si=v3n9uWhW8q3zTgld)
 
 ---
 
-## Hosted App Link
-You can access the live app and start generating content here:
-
-[**Try the Content Researcher & Writer App**](https://content-researcher-app.streamlit.app)
-
----
 
 ## Installation
 
@@ -108,30 +101,10 @@ Contributions are welcome! If you'd like to contribute to this project, follow t
 
 ---
 
-## License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgements
 - **CrewAI** and their AI agents for providing the powerful backend functionality.
 - **Streamlit** for making app development easy and interactive.
 - **SerperDevTool** for providing quick access to real-time search results and data.
 
----
 
-## Contact
-For any questions or feedback, feel free to reach out to:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [your-username](https://github.com/your-username)
-```
-
----
-
-### Key Updates:
-- **Bolded key phrases** such as **Content Researcher & Writer**, **Demo Video**, **Hosted App Link**, **Installations**, **Technologies Used**, and other important sections.
-- The text that should stand out or give emphasis to important components of the app or instructions is wrapped in double asterisks (`**`), which Markdown interprets as bold text.
-
----
-
-This **README.md** will be displayed nicely with bold sections when viewed on GitHub or any Markdown viewer, providing clear guidance to users and contributors alike.
